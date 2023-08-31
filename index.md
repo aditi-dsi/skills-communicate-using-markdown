@@ -6,3 +6,9 @@
 gitH = "Open source is fun!!"
 print(gitH)
 ```
+## Making a task list
+### Let's create a task list with completed and uncompleted items
+#### First Day on GitHub
+- [x] Introduction to Github
+- [ ] Communicating using markdown
+- [ ] GitHub Pages
