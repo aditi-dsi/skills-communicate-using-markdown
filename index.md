@@ -10,5 +10,5 @@ print(gitH)
 ### Let's create a task list with completed and uncompleted items
 #### First Day on GitHub
 - [x] Introduction to Github
-- [ ] Communicating using markdown
-- [ ] GitHub Pages
+- [x] Communicating using markdown
+- [x] GitHub Pages
